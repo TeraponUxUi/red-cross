@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 25.1" style="enable-background:new 0 0 100 25.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_99-2_00000036214253036430245750000009754859385016573334_);}
+</style>
+<g transform="matrix(1, 0, 0, 1, 0, 0)">
+	
+		<linearGradient id="Rectangle_99-2_00000165934339649325807060000017917229780725410461_" gradientUnits="userSpaceOnUse" x1="-452.99" y1="386.6722" x2="-451.99" y2="386.6722" gradientTransform="matrix(100 0 0 -25.126 45299 9728.0889)">
+		<stop  offset="0" style="stop-color:#DD9C26"/>
+		<stop  offset="0" style="stop-color:#F7C827"/>
+		<stop  offset="0.32" style="stop-color:#E1AD24"/>
+		<stop  offset="0.68" style="stop-color:#FBF18F"/>
+		<stop  offset="1" style="stop-color:#FFD33F"/>
+	</linearGradient>
+	<path id="Rectangle_99-2" style="fill:url(#Rectangle_99-2_00000165934339649325807060000017917229780725410461_);" d="M4,0h92
+		c2.2,0,4,1.8,4,4v17.1c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4V4C0,1.8,1.8,0,4,0z"/>
+</g>
+</svg>
